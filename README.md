@@ -22,3 +22,4 @@ myVar would have the value 169.
 
                           ANSWER
                           
+                          const product = 8 * 10;
