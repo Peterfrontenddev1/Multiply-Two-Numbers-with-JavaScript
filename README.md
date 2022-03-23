@@ -10,6 +10,6 @@ const myVar = 13 * 13;
 
 myVar would have the value 169.
   
-                          QUESTIONS
+                          QUESTION
                           
                           
