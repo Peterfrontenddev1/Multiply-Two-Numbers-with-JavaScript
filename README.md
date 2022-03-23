@@ -11,5 +11,5 @@ const myVar = 13 * 13;
 myVar would have the value 169.
   
                           QUESTION
-                          
+                          const product = 8 * 0;
                           
