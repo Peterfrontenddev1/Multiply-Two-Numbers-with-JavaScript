@@ -18,3 +18,7 @@ myVar would have the value 169.
                           The variable product should be equal to 80.
 
                           You should use the * operator.
+
+
+                          ANSWER
+                          
